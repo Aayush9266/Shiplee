@@ -1,9 +1,9 @@
-# **\U0001F4E6 Book a Shipment App**
+# **Shiplee**
 
-## **\U0001F680 Overview**
+## **Overview**
 This is a Flutter-based **shipment booking app** that allows users to enter pickup & delivery addresses, select a courier service, calculate shipping rates, and proceed with payment. The app also integrates with a REST API to fetch real-time shipping prices.
 
-## **\u2728 Features**
+## **Features**
 ✅ **User-friendly UI** for shipment booking  
 ✅ **Input fields** for pickup & delivery address  
 ✅ **Courier selection dropdown** (Delhivery, DTDC, Bluedart, etc.)  
@@ -12,7 +12,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 
 ---
 
-## **\U0001F4F8 App Screenshots**
+## **App Screenshots**
 ### **Home Page**
 ![Home Page](path/to/your-screenshot.png)
 
@@ -36,7 +36,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 ### **Steps to Run the App**
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/book-a-shipment.git
+   git clone [https://github.com/Aayush9266/Shiplee.git]
    ```  
 2. **Navigate to the Project Directory:**
    ```sh
