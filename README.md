@@ -36,7 +36,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 ### **Steps to Run the App**
 1. **Clone the Repository:**
    ```sh
-   git clone [https://github.com/Aayush9266/Shiplee.git]
+   git clone https://github.com/Aayush9266/Shiplee.git
    ```  
 2. **Navigate to the Project Directory:**
    ```sh
