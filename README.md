@@ -21,12 +21,12 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 
 ---
 
-## **\U0001F6E0 Technologies Used**
+## **Technologies Used**
 - **Flutter**
 - **Dart**
 - **REST API (Dummy data from : https://67dc2bfc1fd9e43fe4778501.mockapi.io/api/shippingrates)**
 
-## **\U0001F4E5 Installation & Setup**
+## **Installation & Setup**
 
 ### **Prerequisites**
 - **Flutter SDK installed**
@@ -40,7 +40,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
    ```  
 2. **Navigate to the Project Directory:**
    ```sh
-   cd book-a-shipment
+   cd Shiplee
    ```  
 3. **Install Dependencies:**
    ```sh
@@ -53,7 +53,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 
 ---
 
-## **\U0001F517 API Integration**
+## **API Integration**
 - The app connects to a **sample REST API** to fetch **real-time shipping rates**.
 - Uses **dummy database** for price calculations.
 - API integration ensures accurate and dynamic price updates.
@@ -61,7 +61,7 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 ---
 
 
-## **\U0001F4E9 Contact**
+## **Contact**
 For queries or contributions, contact: **ayushasati04@gmail.com**
 
 ---
