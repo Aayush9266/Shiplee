@@ -14,10 +14,10 @@ This is a Flutter-based **shipment booking app** that allows users to enter pick
 
 ## **App Screenshots**
 ### **Home Page**
-![Home Page](path/to/your-screenshot.png)
+![Home Page](http://github.com/Aayush9266/Shiplee/blob/master/assets/1.jpg)
 
 ### **Price Calculation Page**
-![Price Calculation Page](path/to/your-screenshot.png)
+![Price Calculation Page](https://github.com/Aayush9266/Shiplee/blob/master/assets/2.jpg)
 
 ---
 
